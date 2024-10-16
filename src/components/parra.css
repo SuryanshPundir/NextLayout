@@ -1,0 +1,8 @@
+.parra{
+    background: url(../assets/VG.png)no-repeat;
+    background-size: cover;
+    z-index: -1;
+    height: 100vh;
+    position: relative;
+    filter: drop-shadow(-2px -4px 10px rgba(0, 0, 0, 0.415));
+}

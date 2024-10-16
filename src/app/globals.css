@@ -16,8 +16,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 body {
-    background: url(../assets/background.png)no-repeat center center fixed;
+  
+    background: url(../assets/bg.png)no-repeat center fixed;
     background-size: cover;
     z-index: -1;
-    height: 100vh;
 }

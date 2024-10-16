@@ -1,7 +1,7 @@
 export default function NavBar() {
   return (
     <>
-      <div className=" p-10 flex justify-between sticky top-0">
+      <div className="backdrop-blur-lg p-10 flex justify-between sticky top-0">
 
         <h1 className="font-semibold text-3xl text-white font-times -mt-2">TREK.com</h1>
 
