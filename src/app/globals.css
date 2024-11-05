@@ -16,8 +16,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 body {
-  
-    background: url(../assets/bg.png)no-repeat center fixed;
+
+    background: url(../assets/hgg.png)no-repeat center fixed;
     background-size: cover;
     z-index: -1;
 }
